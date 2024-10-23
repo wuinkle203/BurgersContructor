@@ -1,0 +1,4 @@
+#Mon Oct 21 13:48:13 ICT 2024
+base.0=D\:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

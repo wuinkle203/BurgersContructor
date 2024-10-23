@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="D:\Computer Science\HK1-Nam4\NienLuan\My project\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="D:\Computer Science\HK1-Nam4\NienLuan\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\16724c517a644df7f45f1375e34af50d\transformed\out\jars\classes.jar;D:\Computer Science\HK1-Nam4\NienLuan\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\16724c517a644df7f45f1375e34af50d\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\Computer Science\HK1-Nam4\NienLuan\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\16724c517a644df7f45f1375e34af50d\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\Computer Science\HK1-Nam4\NienLuan\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\Computer Science\HK1-Nam4\NienLuan\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\Computer Science\HK1-Nam4\NienLuan\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>

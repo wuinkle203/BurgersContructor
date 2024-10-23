@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\computer science\\hk1-nam4\\nienluan\\my project\\assets\\_script\\serveplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\serveplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\assets\\_script\\clickplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\clickplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\assets\\_script\\meatcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\meatcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\assets\\_script\\gameflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\gameflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\assets\\_script\\burgeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\burgeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\assets\\_script\\cookmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\cookmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "meatcon.cs",
+              "DocumentMoniker": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\meatcon.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\meatcon.cs",
+              "ToolTip": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\meatcon.cs",
+              "RelativeToolTip": "Assets\\_Script\\meatcon.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:33:34.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clickplace.cs",
+              "DocumentMoniker": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\clickplace.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\clickplace.cs",
+              "ToolTip": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\clickplace.cs",
+              "RelativeToolTip": "Assets\\_Script\\clickplace.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:21:11.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gameflow.cs",
+              "DocumentMoniker": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\gameflow.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\gameflow.cs",
+              "ToolTip": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\gameflow.cs",
+              "RelativeToolTip": "Assets\\_Script\\gameflow.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:51:54.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "serveplate.cs",
+              "DocumentMoniker": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\serveplate.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\serveplate.cs",
+              "ToolTip": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\serveplate.cs",
+              "RelativeToolTip": "Assets\\_Script\\serveplate.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwIMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:20:22.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BurgerUIManager.cs",
+              "DocumentMoniker": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\BurgerUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\BurgerUIManager.cs",
+              "ToolTip": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\BurgerUIManager.cs",
+              "RelativeToolTip": "Assets\\_Script\\BurgerUIManager.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAswOkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:48:16.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cookmove.cs",
+              "DocumentMoniker": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\cookmove.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\cookmove.cs",
+              "ToolTip": "D:\\Computer Science\\HK1-Nam4\\NienLuan\\My project\\Assets\\_Script\\cookmove.cs",
+              "RelativeToolTip": "Assets\\_Script\\cookmove.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:33:23.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
